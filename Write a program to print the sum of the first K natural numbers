@@ -1,0 +1,3 @@
+n=int(input())        #getting int as input
+x=n*(n+1)/2           #formula for natural number
+print(int(x))
